@@ -1,4 +1,5 @@
-Hey there!👋 I'm Tshiamo, and welcome to my GitHub profile! 
+### Hey there!👋 I'm Tshiamo
+#### Welcome to my GitHub profile! ☃️
 
 I'm all about learning and bringing cool ideas to life. Currently, I'm working with an amazing team ✨ **[@suavbeauty](https://github.com/suavbeauty)** ✨, on a beauty care marketplace with the aim of empowering stylists in every region we establish a footprint.
 
